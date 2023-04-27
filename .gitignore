@@ -5,3 +5,7 @@
 !.config/nvim/
 !.config/nvim/.gitkeep
 !.config/nvim/*
+
+!.local/
+!.local/.gitkeep
+!.local/*
