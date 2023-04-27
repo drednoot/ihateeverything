@@ -1,4 +1,7 @@
 *
 !.gitignore
 !.config/
-!.config/*
+!.config/.gitkeep
+!.config/nvim/
+!.config/nvim/.gitkeep
+!.config/nvim/*
